@@ -15,6 +15,14 @@ import {
       extension: 121,
     },
   };
+  const colleague2:ColleagueV2 = {
+    name: "Patti Burke",
+    department: "Finance",
+    contact: {
+      email: "pburke@company.com",
+      extension: 132,
+    },
+  };
 
   function makeBuddyList(
     name: string,
